@@ -1,4 +1,4 @@
-# Hi, I'm Abdul barcky 👋
+# Hi, I'm Abdul Barcky 👋
 
 I'm a beginner coder, just starting my journey into the world of programming. I’m passionate about learning new skills, solving problems, and building projects from scratch. Currently, I'm focusing on mastering the basics of web development, programming languages, and coding tools. 
 
